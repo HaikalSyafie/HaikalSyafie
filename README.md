@@ -10,8 +10,8 @@ My interests include Machine Learning, Deep Learning, Data Analytics,
 Natural Language Processing, Computer Vision, and Business Intelligence.
 
 I enjoy working with data from exploration and preprocessing to
-feature engineering, model development, evaluation, and communicating
-insights.
+feature engineering, model development, evaluation, visualization,
+and communicating insights.
 
 ---
 
@@ -35,41 +35,86 @@ insights.
 
 **Python · C++ · SQL**
 
-### Data Science & Machine Learning
-
-[![Machine Learning](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
-
-**PyTorch · TensorFlow · Scikit-learn · LightGBM**
-
-**Classification · Regression · Clustering · Anomaly Detection**
-**Feature Engineering · Cross Validation · Hyperparameter Tuning**
-**Model Evaluation · SHAP**
+---
 
 ### Data Analysis
 
 [![Data Analysis](https://skillicons.dev/icons?i=pandas,numpy,matplotlib)](https://skillicons.dev)
 
-**Pandas · NumPy · Matplotlib · Seaborn**
+**Pandas · NumPy · Matplotlib · Seaborn · Microsoft Excel**
 
 **EDA · Data Cleaning · Data Transformation · Statistical Analysis**
+
+**Data Aggregation · Data Exploration · Reporting**
+
+---
+
+### Machine Learning
+
+[![Machine Learning](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
+
+**Scikit-learn · LightGBM**
+
+**Classification · Regression · Clustering · Anomaly Detection**
+
+**Feature Engineering · Cross Validation · Hyperparameter Tuning**
+
+**Model Evaluation · SHAP · Model Explainability**
+
+---
+
+### Deep Learning
+
+[![Deep Learning](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+
+**PyTorch · TensorFlow**
+
+**Neural Networks · CNN · Autoencoders · Transfer Learning**
+
+---
 
 ### Natural Language Processing
 
 **NLTK · Text Preprocessing · Tokenization · Semantic Similarity**
-**Text Classification · Feature Extraction**
+
+**Text Classification · Feature Extraction · NLP**
+
+---
 
 ### Computer Vision
 
 [![Computer Vision](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 
-**OpenCV · YOLO · CNN · Image Classification · Object Detection**
+**OpenCV · YOLO · CNN**
+
+**Image Classification · Object Detection · Image Processing**
+
+---
 
 ### Business Intelligence
 
-**Power BI · Tableau · Data Visualization · Dashboard Development**
+**Microsoft Power BI · Tableau · Microsoft Excel**
 
-### Tools
+**Data Visualization · Dashboard Development · Data Storytelling**
+
+**DAX · Data Modeling · Interactive Dashboards**
+
+---
+
+### Development Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
 
 **Git · GitHub · VS Code · Jupyter Notebook**
+
+---
+
+## Areas of Interest
+
+- Data Science
+- Data Analytics
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Business Intelligence
