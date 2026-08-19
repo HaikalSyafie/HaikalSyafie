@@ -2,8 +2,17 @@
 
 ### Data Scientist | Data Analyst | Machine Learning Enthusiast
 
-I work with data to build machine learning solutions, discover insights,
-and develop data-driven applications.
+Hi, I'm Haikal. I am a Data Scientist and Data Analyst passionate about
+turning data into meaningful insights and practical solutions. I enjoy
+exploring datasets, finding patterns, solving analytical problems, and
+building machine learning models that can be applied to real-world
+problems.
+
+My interests span across Data Analytics, Machine Learning, Deep
+Learning, Natural Language Processing, and Computer Vision. I enjoy
+learning through hands-on projects, experimenting with different
+approaches, and continuously improving my technical and analytical
+skills.
 
 ---
 
