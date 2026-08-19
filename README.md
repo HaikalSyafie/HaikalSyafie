@@ -2,28 +2,8 @@
 
 ### Data Scientist | Data Analyst | Machine Learning Enthusiast
 
-I am a Data Scientist and Data Analyst interested in using data to
-solve real-world problems and develop practical machine learning
-solutions.
-
-My interests include Machine Learning, Deep Learning, Data Analytics,
-Natural Language Processing, Computer Vision, and Business Intelligence.
-
-I enjoy working with data from exploration and preprocessing to
-feature engineering, model development, evaluation, visualization,
-and communicating insights.
-
----
-
-## About Me
-
-- Interested in Data Science, Machine Learning, and Data Analytics
-- Experienced with Python, SQL, and C++
-- Experienced with Machine Learning and Deep Learning workflows
-- Interested in Natural Language Processing and Computer Vision
-- Experienced in Exploratory Data Analysis and Business Intelligence
-- Comfortable working with structured and unstructured data
-- Continuously improving my skills through practical projects
+I work with data to build machine learning solutions, discover insights,
+and develop data-driven applications.
 
 ---
 
@@ -39,41 +19,38 @@ and communicating insights.
 
 ### Data Analysis
 
-[![Data Analysis](https://skillicons.dev/icons?i=pandas,numpy,matplotlib)](https://skillicons.dev)
+[![Data Analysis](https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn)](https://skillicons.dev)
 
 **Pandas · NumPy · Matplotlib · Seaborn · Microsoft Excel**
+
 ---
+
 ### Machine Learning
 
 [![Machine Learning](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
 
 **Scikit-learn · LightGBM**
+
 ---
+
 ### Deep Learning
 
 [![Deep Learning](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 
 **PyTorch · TensorFlow**
----
 
-### Natural Language Processing
-
-**NLTK ·
----
-
-### Computer Vision
-
-[![Computer Vision](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
-
-**OpenCV · YOLO 
 ---
 
 ### Business Intelligence
 
-**Microsoft Power BI · Microsoft Excel**
+[![Business Intelligence](https://skillicons.dev/icons?i=powerbi)](https://skillicons.dev)
+
+**Power BI · Tableau · DAX**
+
 ---
 
-### Development Tools
+### Tools
+
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
 
-**Git · GitHub · VS Code · Jupyter Notebook**
+**Git · GitHub · VS Code · Jupyter**
