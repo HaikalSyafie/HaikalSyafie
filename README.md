@@ -1,65 +1,21 @@
-# Haikal Syafie
+# Hey There! 👋
 
-### Data Scientist | Data Analyst | Machine Learning Enthusiast
+I'm Haikal Syafie — a Data Scientist and Data Analyst interested in
+Machine Learning, Data Analytics, and Artificial Intelligence.
 
-Hi, I'm Haikal. I am a Data Scientist and Data Analyst passionate about
-turning data into meaningful insights and practical solutions. I enjoy
-exploring datasets, finding patterns, solving analytical problems, and
-building machine learning models that can be applied to real-world
-problems.
+I enjoy working with data, from exploration and visualization to
+feature engineering, model development, and evaluation. I'm also
+interested in Deep Learning, Natural Language Processing, and Computer
+Vision, and I like learning through hands-on projects.
 
-My interests span across Data Analytics, Machine Learning, Deep
-Learning, Natural Language Processing, and Computer Vision. I enjoy
-learning through hands-on projects, experimenting with different
-approaches, and continuously improving my technical and analytical
-skills.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,tensorflow,sklearn,pandas,numpy,opencv,git,github,vscode,jupyter" />
+</p>
 
----
+**Data & Analytics:** Pandas · NumPy · Matplotlib · Seaborn · Excel · Power BI · Tableau
 
-## Tech Stack
+**Machine Learning:** Scikit-learn · LightGBM · SHAP · PyTorch · TensorFlow
 
-### Programming
+**NLP & Computer Vision:** NLTK · Semantic Similarity · OpenCV · YOLO · CNN
 
-[![Programming](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
-
-**Python · C++ · SQL**
-
----
-
-### Data Analysis
-
-[![Data Analysis](https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn)](https://skillicons.dev)
-
-**Pandas · NumPy · Matplotlib · Seaborn · Microsoft Excel**
-
----
-
-### Machine Learning
-
-[![Machine Learning](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
-
-**Scikit-learn · LightGBM**
-
----
-
-### Deep Learning
-
-[![Deep Learning](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
-
-**PyTorch · TensorFlow**
-
----
-
-### Business Intelligence
-
-[![Business Intelligence](https://skillicons.dev/icons?i=powerbi)](https://skillicons.dev)
-
-**Power BI · Tableau · DAX**
-
----
-
-### Tools
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
-
-**Git · GitHub · VS Code · Jupyter**
+**Tools:** Git · GitHub · VS Code · Jupyter
