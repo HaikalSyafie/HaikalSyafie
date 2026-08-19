@@ -42,79 +42,38 @@ and communicating insights.
 [![Data Analysis](https://skillicons.dev/icons?i=pandas,numpy,matplotlib)](https://skillicons.dev)
 
 **Pandas · NumPy · Matplotlib · Seaborn · Microsoft Excel**
-
-**EDA · Data Cleaning · Data Transformation · Statistical Analysis**
-
-**Data Aggregation · Data Exploration · Reporting**
-
 ---
-
 ### Machine Learning
 
 [![Machine Learning](https://skillicons.dev/icons?i=sklearn)](https://skillicons.dev)
 
 **Scikit-learn · LightGBM**
-
-**Classification · Regression · Clustering · Anomaly Detection**
-
-**Feature Engineering · Cross Validation · Hyperparameter Tuning**
-
-**Model Evaluation · SHAP · Model Explainability**
-
 ---
-
 ### Deep Learning
 
 [![Deep Learning](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 
 **PyTorch · TensorFlow**
-
-**Neural Networks · CNN · Autoencoders · Transfer Learning**
-
 ---
 
 ### Natural Language Processing
 
-**NLTK · Text Preprocessing · Tokenization · Semantic Similarity**
-
-**Text Classification · Feature Extraction · NLP**
-
+**NLTK ·
 ---
 
 ### Computer Vision
 
 [![Computer Vision](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
 
-**OpenCV · YOLO · CNN**
-
-**Image Classification · Object Detection · Image Processing**
-
+**OpenCV · YOLO 
 ---
 
 ### Business Intelligence
 
-**Microsoft Power BI · Tableau · Microsoft Excel**
-
-**Data Visualization · Dashboard Development · Data Storytelling**
-
-**DAX · Data Modeling · Interactive Dashboards**
-
+**Microsoft Power BI · Microsoft Excel**
 ---
 
 ### Development Tools
-
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,jupyter)](https://skillicons.dev)
 
 **Git · GitHub · VS Code · Jupyter Notebook**
-
----
-
-## Areas of Interest
-
-- Data Science
-- Data Analytics
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Business Intelligence
